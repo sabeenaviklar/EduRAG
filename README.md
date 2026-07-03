@@ -69,35 +69,7 @@ RAG/
 
 ---
 
-## 🚀 Quick Start
 
-### 1. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 2. Create `.env` file
-```bash
-copy .env.example .env
-```
-Open `.env` and add your **free** Groq API key from [console.groq.com](https://console.groq.com/).
-```
-GROQ_API_KEY=gsk_your_key_here
-```
-
-### 3. Start the Backend (Terminal 1)
-```bash
-uvicorn backend.main:app --reload --port 8000
-```
-
-### 4. Start the Frontend (Terminal 2)
-```bash
-streamlit run frontend/app.py
-```
-
-### 5. Open the app
-- **Frontend:** http://localhost:8501
-- **API Docs:** http://localhost:8000/docs
 
 ---
 
