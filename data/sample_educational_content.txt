@@ -1,0 +1,148 @@
+# Sample Educational Content for Testing EduRAG
+# ================================================
+# This is a sample document to test your RAG pipeline.
+# You can replace this with your actual study materials.
+
+# PHYSICS - Newton's Laws of Motion
+
+## Newton's First Law (Law of Inertia)
+An object at rest stays at rest and an object in motion stays in motion 
+with the same speed and in the same direction unless acted upon by an 
+unbalanced force. This is also called the Law of Inertia.
+
+Example: A book on a table will not move unless someone pushes it. 
+A moving car will continue moving if the engine is turned off (though 
+friction will eventually stop it).
+
+## Newton's Second Law (F = ma)
+The acceleration of an object depends on the net force acting on it 
+and the mass of the object. Mathematically: F = m × a
+Where:
+  - F = Force (measured in Newtons, N)
+  - m = Mass (measured in kilograms, kg)
+  - a = Acceleration (measured in m/s²)
+
+Example: Pushing a shopping cart — the harder you push (more force), 
+the faster it accelerates. A heavier cart requires more force for the 
+same acceleration.
+
+## Newton's Third Law (Action-Reaction)
+For every action, there is an equal and opposite reaction.
+When object A exerts a force on object B, object B exerts an equal 
+and opposite force on object A.
+
+Example: When you jump, you push down on the ground (action), 
+and the ground pushes you up (reaction), launching you into the air.
+
+---
+
+# BIOLOGY - Photosynthesis
+
+## What is Photosynthesis?
+Photosynthesis is the process by which green plants, algae, and some 
+bacteria convert light energy (usually from the sun) into chemical 
+energy stored as glucose (sugar).
+
+## The Equation
+6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ + 6O₂
+Carbon dioxide + Water + Light → Glucose + Oxygen
+
+## Two Stages of Photosynthesis
+
+### 1. Light-Dependent Reactions (in the thylakoid)
+- Chlorophyll absorbs sunlight
+- Water molecules are split (photolysis), releasing oxygen as a byproduct
+- ATP and NADPH are produced (energy carriers)
+
+### 2. Light-Independent Reactions / Calvin Cycle (in the stroma)
+- CO₂ from the air is "fixed" (attached to organic molecules)
+- ATP and NADPH from Stage 1 are used to produce glucose
+- The cycle regenerates the molecule that captures CO₂
+
+## Importance of Photosynthesis
+1. Produces oxygen that most living organisms breathe
+2. Forms the base of the food chain (primary producers)
+3. Removes CO₂ from the atmosphere, helping regulate climate
+
+---
+
+# HISTORY - World War I (1914-1918)
+
+## Main Causes (MAIN Acronym)
+- **M**ilitarism: European powers built up massive armies and navies
+- **A**lliances: Europe was divided into two armed camps (Triple Alliance vs Triple Entente)
+- **I**mperialism: Competition for colonies created international tensions
+- **N**ationalism: Strong national pride, especially in the Balkans
+
+## The Spark
+The assassination of Archduke Franz Ferdinand of Austria-Hungary 
+on June 28, 1914, in Sarajevo by Gavrilo Princip (a Bosnian Serb nationalist)
+triggered the alliance system and led to a declaration of war.
+
+## Key Events
+- 1914: War begins; Germany invades Belgium; trench warfare begins
+- 1915: Gallipoli Campaign; Italy joins the Allies
+- 1916: Battle of the Somme (1 million casualties); Battle of Verdun
+- 1917: USA enters the war; Russian Revolution
+- 1918: Germany's allies collapse; Armistice signed on November 11
+
+## Consequences
+- ~17 million deaths (military and civilian)
+- Collapse of four empires: Ottoman, Austro-Hungarian, German, Russian
+- Treaty of Versailles (1919): harsh terms placed on Germany, leading to WWII
+
+---
+
+# MATHEMATICS - The Pythagorean Theorem
+
+## Statement
+In a right-angled triangle, the square of the hypotenuse (the side 
+opposite the right angle) is equal to the sum of the squares of the 
+other two sides.
+
+## Formula
+a² + b² = c²
+Where c is the hypotenuse and a, b are the other two sides.
+
+## Example
+If a = 3 and b = 4:
+c² = 3² + 4² = 9 + 16 = 25
+c = √25 = 5
+
+This is the famous "3-4-5 right triangle."
+
+## Applications
+1. Construction: Ensuring walls and floors are perfectly perpendicular
+2. Navigation: Calculating distances between two points
+3. Computer graphics: Calculating distances in 2D and 3D space
+
+---
+
+# ECONOMICS - Supply and Demand
+
+## The Law of Demand
+As the price of a good increases, the quantity demanded decreases 
+(assuming all other factors are held constant). This gives the demand 
+curve a downward slope.
+
+## The Law of Supply
+As the price of a good increases, the quantity supplied increases 
+(producers want to sell more at higher prices). This gives the supply 
+curve an upward slope.
+
+## Market Equilibrium
+The equilibrium price (or "market-clearing price") is where the 
+quantity demanded equals the quantity supplied. At this point, 
+there is no surplus or shortage.
+
+## Shifts in the Curves
+- Demand shifts right: increased income, tastes, population, or 
+  expectations of higher prices
+- Supply shifts right: improved technology, lower input costs, 
+  more producers
+
+## Real-World Example
+During COVID-19 mask shortages:
+- Demand for masks surged (shift right) → prices rose
+- Over time, supply increased as more manufacturers entered the market
+- Eventually, a new equilibrium was reached at a lower price

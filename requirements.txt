@@ -1,0 +1,32 @@
+# ================================================================
+# EduRAG — Requirements
+# ================================================================
+
+# --- Backend (FastAPI) ---
+fastapi==0.115.12
+uvicorn[standard]==0.34.3
+python-multipart==0.0.20      # for file uploads in FastAPI
+httpx==0.28.1                 # used by Streamlit to call backend APIs
+
+# --- RAG Core ---
+langchain==0.3.25
+langchain-community==0.3.24
+langchain-groq==0.3.2
+
+# --- Vector Database ---
+chromadb==0.6.3
+
+# --- Embeddings (runs locally, no API key needed) ---
+sentence-transformers==3.4.1
+
+# --- Document Loaders ---
+pypdf==5.4.0
+python-docx==1.1.2
+docx2txt==0.8
+
+# --- Frontend (Streamlit) ---
+streamlit==1.45.1
+
+# --- Utilities ---
+python-dotenv==1.1.0
+pydantic==2.11.5
