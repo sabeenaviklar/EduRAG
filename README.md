@@ -1,5 +1,10 @@
 # EduRAG — RAG for Educational Systems
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.115-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.45-red)
+
 > 🎓 Ask questions about your study materials. Get accurate, cited answers powered by AI.
 
 ---
